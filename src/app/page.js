@@ -84,7 +84,7 @@ export default function Home() {
         <header className={Styles.header}>
           <nav className={Styles.nav}>
             <Image
-              src="/LHlogo.webp"
+              src="/images/logo.webp"
               className={Styles.logo}
               alt="learnerhunt"
               width={200}
